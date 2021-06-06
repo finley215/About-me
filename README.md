@@ -1,8 +1,8 @@
 # About me Project
-#### This a project that talks about me, 2.0
+#### This a project that talks about me.
 #### By **Finley Mwangola**
 ## Description
-This is a webpge that entails about Finley Mwangola
+This is a webpge that entails about Finley Mwangola.
 ## Known Bugs
 No Known Bugs
 ## Support and contact details
