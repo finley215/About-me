@@ -7,6 +7,7 @@ This is a wbepage that entails all about Fniley Mwangola, his Hobbies,interests 
 * UBUNU 20.04
 * CHROME BROWSER
 * Lenovo laptop
+* here is the link in case you want to clone https://github.com/finley215/About-me.git
 ## Known Bugs
 No KNOWN BUGS!
 ## Technologies Used
